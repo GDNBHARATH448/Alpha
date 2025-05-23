@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH", "5c10faa5b68227793d5f9084106c6f24") #optional
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7403621976").split()))
 OWNER_ID = int(getenv("OWNER_ID", "8187405882"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
-BOT_TOKEN = getenv("BOT_TOKEN", "7789341824:AAFVRNcPZq0oVfmDnVGHhZWlRQ9nHhc2GRM")
+BOT_TOKEN = getenv("BOT_TOKEN", "7500951257:AAFoedUKaphJkKOD_H_ddq2EsBY9kxPWe2Q")
 ALIVE_PIC = getenv("ALIVE_PIC", 'https://graph.org/file/889eb69b32f94476bc712-9558bff09cbd6faaf6.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
